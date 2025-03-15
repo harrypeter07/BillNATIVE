@@ -39,7 +39,7 @@ export default function HistoryScreen() {
 
   const clearHistory = async () => {
     Alert.alert(
-      "Clear history",
+      "Clear History",
       "Are you sure you want to delete all bill history?",
       [
         {
