@@ -1,5 +1,5 @@
-# Welcome to your Expo app 👋
-
+# Welcome to your BILL app 👋
+Helps people to calculate bills quickly and also see histor of bills , new features will get added time to time stay updated . You can follow me on linkdin - https://www.linkedin.com/in/hassan-mansuri-217342292/
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
